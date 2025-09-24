@@ -3,7 +3,7 @@
 <h1 align="center">       
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehak+Khilji!;" />
 </h1>                                    
-<h3 align="center">Full Stack Developer & A Real-time Project Developer</h3>            
+<h3 align="center">Python Developer & A Real-time Project Developer</h3>            
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mehak-khilji&label=Profile%20views&color=0e75b6&style=flat" alt="mehak-khilji" /> </p>
 
     
@@ -16,8 +16,6 @@
 - 🔭 I’m currently working on **Learning Projects**        
   
 - 🌱 I’m currently learning **Python Development**
-
-- 🏆 **AIstronauts Hackathon Winner** - _LablabAi_ | [Link](https://www.linkedin.com/posts/iamharisahsan_3rd-wewonthehackathon-spacetech-activity-7297328067763445760-Rgd4)
   
 - 👯 Explore my [Resume]()
 
@@ -40,8 +38,8 @@
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br /> 
 <div  align="center" >
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind," />
-    <img src="https://skillicons.dev/icons?i=github,figma,git,python," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind," /> </br>
+    <img src="https://skillicons.dev/icons?i=github,figma,git,python," /> </br>
     <img src="https://skillicons.dev/icons?i=cpp,photoshop,illustrator,vscode," />
 </div>
  
